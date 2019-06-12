@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Zbikmann Adventure Repo
+![Image](https://github.com/andrew-ski/Zbikmann.github.io/blob/master/LoyalSock.png)
 
 You can use the [editor on GitHub](https://github.com/andrew-ski/Zbikmann.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
