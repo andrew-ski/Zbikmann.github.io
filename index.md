@@ -1,5 +1,5 @@
 <header>
-<!-- Hotjar Tracking Code for https://andrew-ski.github.io/zbikmann.github.io/ -->
+<!-- Hotjar Tracking Code for https://andrew-ski.github.io/Zbikmann.github.io/ -->
 <script>
     (function(h,o,t,j,a,r){
         h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
